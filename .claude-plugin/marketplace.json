@@ -4,7 +4,10 @@
   "displayName": "andi1984's Claude Marketplace",
   "description": "Personal collection of Claude Code plugins, skills, and commands",
   "version": "1.0.0",
-  "owner": "Andreas Sander",
+  "owner": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
   "repository": "https://github.com/andi1984/claude-marketplace",
   "plugins": [],
   "categories": [
