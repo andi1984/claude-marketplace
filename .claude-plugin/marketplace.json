@@ -1,0 +1,27 @@
+{
+  "$schema": "https://claude.ai/schemas/marketplace.json",
+  "name": "andi1984-marketplace",
+  "displayName": "andi1984's Claude Marketplace",
+  "description": "Personal collection of Claude Code plugins, skills, and commands",
+  "version": "1.0.0",
+  "author": "Andreas Sander",
+  "repository": "https://github.com/andi1984/claude-marketplace",
+  "plugins": [],
+  "categories": [
+    {
+      "id": "skills",
+      "name": "Skills",
+      "description": "Specialized capabilities that enhance Claude's abilities"
+    },
+    {
+      "id": "commands",
+      "name": "Commands",
+      "description": "Custom slash commands for common workflows"
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "description": "Utility plugins and integrations"
+    }
+  ]
+}
