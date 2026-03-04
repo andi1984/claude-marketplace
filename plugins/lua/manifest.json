@@ -1,0 +1,12 @@
+{
+  "$schema": "https://claude.ai/schemas/plugin-manifest.json",
+  "name": "lua",
+  "displayName": "Lua Development",
+  "description": "Lua development guidelines covering tables, metatables, error handling, game development, and performance optimization.",
+  "version": "1.0.0",
+  "type": "skill",
+  "category": "skills",
+  "triggers": ["lua", "love2d"],
+  "entryPoint": "skill.md",
+  "tags": ["lua", "love2d", "game-development", "scripting"]
+}

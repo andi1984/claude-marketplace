@@ -9,7 +9,16 @@
     "email": "mail@andi1984.de"
   },
   "repository": "https://github.com/andi1984/claude-marketplace",
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "lua",
+      "displayName": "Lua Development",
+      "description": "Lua development guidelines covering tables, metatables, error handling, game development, and performance optimization.",
+      "type": "skill",
+      "category": "skills",
+      "path": "plugins/lua"
+    }
+  ],
   "categories": [
     {
       "id": "skills",
