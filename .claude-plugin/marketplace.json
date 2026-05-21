@@ -3,7 +3,7 @@
   "name": "andi1984-marketplace",
   "displayName": "andi1984's Claude Marketplace",
   "description": "Personal collection of Claude Code plugins, skills, and commands",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "owner": {
     "name": "Andreas Sander",
     "email": "mail@andi1984.de"
@@ -41,6 +41,15 @@
       "type": "command",
       "category": "commands",
       "path": "plugins/parqet-portfolio"
+    },
+    {
+      "name": "rust-desktop",
+      "displayName": "Rust Desktop Applications",
+      "description": "Build cross-platform desktop apps with Rust using Tauri, egui, iced, and slint. Covers architecture, IPC, state management, and platform integration.",
+      "type": "skill",
+      "category": "skills",
+      "path": "plugins/rust-desktop",
+      "source": "https://awesomeskill.ai/skill/claude-mpm-desktop-applications"
     }
   ],
   "categories": [

@@ -17,6 +17,7 @@ claude marketplace add https://github.com/andi1984/claude-marketplace
 | **lua** | `lua`, `love2d` | Lua dev: tables, metatables, OOP, Love2D, performance |
 | **make-automation** | `make`, `make.com`, `scenario`, `blueprint`, `webhook` | Make.com scenarios with MCP tools, blueprint JSON, cost optimization |
 | **supabase-dev** | `supabase`, `rls`, `edge function` | RLS policies, migrations, edge functions, auth, TypeScript types |
+| **rust-desktop** | `rust`, `tauri`, `egui`, `iced`, `cargo` | Tauri, egui, iced, slint — architecture, IPC, state, platform integration |
 
 ### Commands (slash commands)
 
@@ -47,7 +48,8 @@ claude marketplace add https://github.com/andi1984/claude-marketplace
 │   ├── lua/
 │   ├── make-automation/
 │   ├── supabase-dev/
-│   └── parqet-portfolio/
+│   ├── parqet-portfolio/
+│   └── rust-desktop/
 └── README.md
 ```
 
