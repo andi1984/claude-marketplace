@@ -1,0 +1,13 @@
+{
+  "name": "rust-errors",
+  "displayName": "Rust Errors",
+  "version": "1.0.0",
+  "description": "Rust to TypeScript error handling patterns for Tauri apps. Covers discriminated union error types, serde tagging, and cross-language error consistency.",
+  "author": {
+    "name": "EpicenterHQ",
+    "url": "https://github.com/EpicenterHQ"
+  },
+  "homepage": "https://awesomeskill.ai/skill/epicenter-rust-errors",
+  "repository": "https://github.com/EpicenterHQ/epicenter",
+  "license": "MIT"
+}

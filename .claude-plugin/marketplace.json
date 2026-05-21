@@ -76,6 +76,19 @@
       }
     },
     {
+      "name": "rust-errors",
+      "displayName": "Rust Errors",
+      "description": "Rust to TypeScript error handling patterns for Tauri apps. Covers discriminated union error types, serde tagging, and cross-language error consistency.",
+      "author": { "name": "EpicenterHQ", "url": "https://github.com/EpicenterHQ" },
+      "category": "skills",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/andi1984/claude-marketplace.git",
+        "path": "plugins/rust-errors",
+        "ref": "main"
+      }
+    },
+    {
       "name": "testing-principles",
       "displayName": "Testing Principles",
       "description": "Language-agnostic testing principles including TDD, test quality, coverage standards, and test design patterns.",
