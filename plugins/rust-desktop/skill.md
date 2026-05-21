@@ -1,5 +1,7 @@
 # Rust Desktop Applications
 
+> Adapted from [bobmatnyc/claude-mpm](https://awesomeskill.ai/skill/claude-mpm-desktop-applications) — MIT License
+
 Build cross-platform desktop applications with Rust using Tauri framework and native GUI alternatives.
 
 ## When to Use
