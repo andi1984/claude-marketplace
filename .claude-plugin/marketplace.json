@@ -74,6 +74,19 @@
         "path": "plugins/rust-desktop",
         "ref": "main"
       }
+    },
+    {
+      "name": "frontend-design",
+      "displayName": "Frontend Design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Generates creative, polished code that avoids generic AI aesthetics.",
+      "author": { "name": "Prithvi Rajasekaran & Alexander Bricken", "email": "prithvi@anthropic.com" },
+      "category": "skills",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/claude-code.git",
+        "path": "plugins/frontend-design",
+        "ref": "main"
+      }
     }
   ]
 }
