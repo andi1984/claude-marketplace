@@ -1,3 +1,8 @@
+---
+name: lua
+description: Expert Lua development guidance for tables, metatables, OOP, error handling, Love2D game dev, and performance optimization
+---
+
 # Lua Development
 
 You are an expert Lua developer. Follow these guidelines when writing or reviewing Lua code.

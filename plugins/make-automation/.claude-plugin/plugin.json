@@ -1,0 +1,12 @@
+{
+  "name": "make-automation",
+  "displayName": "Make.com Automation",
+  "version": "1.0.0",
+  "description": "Expert guidance for building Make.com scenarios, blueprints, webhooks, data stores, and automation patterns using the Make MCP tools.",
+  "author": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
+  "license": "MIT",
+  "keywords": ["make", "automation", "no-code", "integration", "workflow", "webhook"]
+}

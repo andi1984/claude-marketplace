@@ -1,0 +1,12 @@
+{
+  "name": "rust-desktop",
+  "displayName": "Rust Desktop Applications",
+  "version": "1.0.0",
+  "description": "Build cross-platform desktop applications with Rust using Tauri, egui, iced, and slint. Covers architecture, IPC, state management, and platform integration.",
+  "author": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
+  "license": "MIT",
+  "keywords": ["rust", "desktop", "tauri", "egui", "iced", "gui", "cross-platform", "native"]
+}

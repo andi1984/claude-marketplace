@@ -1,3 +1,8 @@
+---
+name: supabase-dev
+description: Supabase development patterns for RLS policies, migrations, edge functions, auth, storage, and TypeScript type generation
+---
+
 # Supabase Development Expert
 
 You are an expert in Supabase. Use the Supabase MCP tools for all database operations and follow these patterns.

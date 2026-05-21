@@ -1,9 +1,9 @@
 {
-  "$schema": "https://claude.ai/schemas/marketplace.json",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "andi1984-marketplace",
   "displayName": "andi1984's Claude Marketplace",
   "description": "Personal collection of Claude Code plugins, skills, and commands",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "owner": {
     "name": "Andreas Sander",
     "email": "mail@andi1984.de"
@@ -14,58 +14,66 @@
       "name": "lua",
       "displayName": "Lua Development",
       "description": "Lua development guidelines covering tables, metatables, error handling, game development, and performance optimization.",
-      "type": "skill",
+      "author": { "name": "Andreas Sander" },
       "category": "skills",
-      "path": "plugins/lua"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/andi1984/claude-marketplace.git",
+        "path": "plugins/lua",
+        "ref": "main"
+      }
     },
     {
       "name": "make-automation",
       "displayName": "Make.com Automation",
       "description": "Expert guidance for building Make.com scenarios, blueprints, webhooks, data stores, and automation patterns using the Make MCP tools.",
-      "type": "skill",
+      "author": { "name": "Andreas Sander" },
       "category": "skills",
-      "path": "plugins/make-automation"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/andi1984/claude-marketplace.git",
+        "path": "plugins/make-automation",
+        "ref": "main"
+      }
     },
     {
       "name": "supabase-dev",
       "displayName": "Supabase Development",
       "description": "Patterns and best practices for Supabase: RLS policies, migrations, edge functions, auth, storage, and TypeScript type generation.",
-      "type": "skill",
+      "author": { "name": "Andreas Sander" },
       "category": "skills",
-      "path": "plugins/supabase-dev"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/andi1984/claude-marketplace.git",
+        "path": "plugins/supabase-dev",
+        "ref": "main"
+      }
     },
     {
       "name": "parqet-portfolio",
       "displayName": "Parqet Portfolio",
       "description": "Slash commands for quick Parqet portfolio analysis: overview, performance, holdings, and dividends using the Parqet MCP.",
-      "type": "command",
+      "author": { "name": "Andreas Sander" },
       "category": "commands",
-      "path": "plugins/parqet-portfolio"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/andi1984/claude-marketplace.git",
+        "path": "plugins/parqet-portfolio",
+        "ref": "main"
+      }
     },
     {
       "name": "rust-desktop",
       "displayName": "Rust Desktop Applications",
       "description": "Build cross-platform desktop apps with Rust using Tauri, egui, iced, and slint. Covers architecture, IPC, state management, and platform integration.",
-      "type": "skill",
+      "author": { "name": "Andreas Sander" },
       "category": "skills",
-      "path": "plugins/rust-desktop"
-    }
-  ],
-  "categories": [
-    {
-      "id": "skills",
-      "name": "Skills",
-      "description": "Specialized capabilities that enhance Claude's abilities"
-    },
-    {
-      "id": "commands",
-      "name": "Commands",
-      "description": "Custom slash commands for common workflows"
-    },
-    {
-      "id": "tools",
-      "name": "Tools",
-      "description": "Utility plugins and integrations"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/andi1984/claude-marketplace.git",
+        "path": "plugins/rust-desktop",
+        "ref": "main"
+      }
     }
   ]
 }

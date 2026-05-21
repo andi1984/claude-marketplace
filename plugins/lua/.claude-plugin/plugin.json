@@ -1,0 +1,12 @@
+{
+  "name": "lua",
+  "displayName": "Lua Development",
+  "version": "1.0.0",
+  "description": "Lua development guidelines covering tables, metatables, error handling, game development, and performance optimization.",
+  "author": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
+  "license": "MIT",
+  "keywords": ["lua", "love2d", "game-development", "scripting"]
+}

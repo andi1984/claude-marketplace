@@ -1,0 +1,12 @@
+{
+  "name": "supabase-dev",
+  "displayName": "Supabase Development",
+  "version": "1.0.0",
+  "description": "Patterns and best practices for Supabase: RLS policies, migrations, edge functions, auth, storage, and TypeScript type generation.",
+  "author": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
+  "license": "MIT",
+  "keywords": ["supabase", "postgres", "rls", "edge-functions", "backend", "database"]
+}

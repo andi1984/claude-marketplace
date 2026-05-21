@@ -1,3 +1,8 @@
+---
+name: rust-desktop
+description: Build cross-platform desktop apps with Rust using Tauri, egui, iced, and slint — architecture, IPC, state management, and platform integration
+---
+
 # Rust Desktop Applications
 
 > Adapted from [bobmatnyc/claude-mpm](https://awesomeskill.ai/skill/claude-mpm-desktop-applications) — MIT License

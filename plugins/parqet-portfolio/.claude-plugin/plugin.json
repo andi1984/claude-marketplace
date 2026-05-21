@@ -1,0 +1,12 @@
+{
+  "name": "parqet-portfolio",
+  "displayName": "Parqet Portfolio",
+  "version": "1.0.0",
+  "description": "Slash commands for quick Parqet portfolio analysis: overview, performance, holdings, and dividends using the Parqet MCP.",
+  "author": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
+  "license": "MIT",
+  "keywords": ["parqet", "portfolio", "stocks", "investing", "finance"]
+}
