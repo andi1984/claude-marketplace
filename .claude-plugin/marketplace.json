@@ -76,6 +76,19 @@
       }
     },
     {
+      "name": "testing-principles",
+      "displayName": "Testing Principles",
+      "description": "Language-agnostic testing principles including TDD, test quality, coverage standards, and test design patterns.",
+      "author": { "name": "shinpr", "url": "https://github.com/shinpr" },
+      "category": "skills",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/andi1984/claude-marketplace.git",
+        "path": "plugins/testing-principles",
+        "ref": "main"
+      }
+    },
+    {
       "name": "frontend-design",
       "displayName": "Frontend Design",
       "description": "Create distinctive, production-grade frontend interfaces with high design quality. Generates creative, polished code that avoids generic AI aesthetics.",

@@ -1,0 +1,13 @@
+{
+  "name": "testing-principles",
+  "displayName": "Testing Principles",
+  "version": "1.0.0",
+  "description": "Language-agnostic testing principles including TDD, test quality, coverage standards, and test design patterns.",
+  "author": {
+    "name": "shinpr",
+    "url": "https://github.com/shinpr"
+  },
+  "homepage": "https://awesomeskill.ai/skill/claude-code-workflows-testing-principles",
+  "repository": "https://github.com/shinpr/claude-code-workflows",
+  "license": "MIT"
+}
