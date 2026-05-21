@@ -3,7 +3,7 @@
   "name": "andi1984-marketplace",
   "displayName": "andi1984's Claude Marketplace",
   "description": "Personal collection of Claude Code plugins, skills, and commands",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "owner": {
     "name": "Andreas Sander",
     "email": "mail@andi1984.de"
@@ -17,6 +17,30 @@
       "type": "skill",
       "category": "skills",
       "path": "plugins/lua"
+    },
+    {
+      "name": "make-automation",
+      "displayName": "Make.com Automation",
+      "description": "Expert guidance for building Make.com scenarios, blueprints, webhooks, data stores, and automation patterns using the Make MCP tools.",
+      "type": "skill",
+      "category": "skills",
+      "path": "plugins/make-automation"
+    },
+    {
+      "name": "supabase-dev",
+      "displayName": "Supabase Development",
+      "description": "Patterns and best practices for Supabase: RLS policies, migrations, edge functions, auth, storage, and TypeScript type generation.",
+      "type": "skill",
+      "category": "skills",
+      "path": "plugins/supabase-dev"
+    },
+    {
+      "name": "parqet-portfolio",
+      "displayName": "Parqet Portfolio",
+      "description": "Slash commands for quick Parqet portfolio analysis: overview, performance, holdings, and dividends using the Parqet MCP.",
+      "type": "command",
+      "category": "commands",
+      "path": "plugins/parqet-portfolio"
     }
   ],
   "categories": [

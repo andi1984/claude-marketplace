@@ -1,0 +1,16 @@
+{
+  "$schema": "https://claude.ai/schemas/plugin-manifest.json",
+  "name": "supabase-dev",
+  "displayName": "Supabase Development",
+  "description": "Patterns and best practices for Supabase: RLS policies, migrations, edge functions, auth, storage, and TypeScript type generation.",
+  "version": "1.0.0",
+  "type": "skill",
+  "category": "skills",
+  "owner": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
+  "triggers": ["supabase", "rls", "postgres", "edge function", "supabase migration"],
+  "entryPoint": "skill.md",
+  "tags": ["supabase", "postgres", "rls", "edge-functions", "backend", "database"]
+}

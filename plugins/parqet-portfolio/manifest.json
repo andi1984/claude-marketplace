@@ -1,0 +1,26 @@
+{
+  "$schema": "https://claude.ai/schemas/plugin-manifest.json",
+  "name": "parqet-portfolio",
+  "displayName": "Parqet Portfolio",
+  "description": "Slash commands for quick Parqet portfolio analysis: overview, performance, holdings, and dividends using the Parqet MCP.",
+  "version": "1.0.0",
+  "type": "command",
+  "category": "commands",
+  "owner": {
+    "name": "Andreas Sander",
+    "email": "mail@andi1984.de"
+  },
+  "commands": [
+    {
+      "name": "portfolio",
+      "file": "commands/portfolio.md",
+      "description": "Quick portfolio overview with value, returns, and top holdings"
+    },
+    {
+      "name": "portfolio-performance",
+      "file": "commands/portfolio-performance.md",
+      "description": "Detailed performance breakdown with XIRR and TTWROR"
+    }
+  ],
+  "tags": ["parqet", "portfolio", "stocks", "investing", "finance"]
+}
