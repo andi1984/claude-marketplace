@@ -10,7 +10,6 @@
     "name": "Andreas Sander",
     "email": "mail@andi1984.de"
   },
-  "source": "https://awesomeskill.ai/skill/claude-mpm-desktop-applications",
   "triggers": ["rust", "tauri", "egui", "iced", "slint", "cargo", "crate", "rust desktop"],
   "entryPoint": "skill.md",
   "tags": ["rust", "desktop", "tauri", "egui", "iced", "gui", "cross-platform", "native"]

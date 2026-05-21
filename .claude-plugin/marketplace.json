@@ -48,8 +48,7 @@
       "description": "Build cross-platform desktop apps with Rust using Tauri, egui, iced, and slint. Covers architecture, IPC, state management, and platform integration.",
       "type": "skill",
       "category": "skills",
-      "path": "plugins/rust-desktop",
-      "source": "https://awesomeskill.ai/skill/claude-mpm-desktop-applications"
+      "path": "plugins/rust-desktop"
     }
   ],
   "categories": [
