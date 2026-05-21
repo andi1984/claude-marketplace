@@ -6,10 +6,6 @@
   "version": "1.0.0",
   "type": "command",
   "category": "commands",
-  "owner": {
-    "name": "Andreas Sander",
-    "email": "mail@andi1984.de"
-  },
   "commands": [
     {
       "name": "portfolio",

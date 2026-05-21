@@ -6,10 +6,6 @@
   "version": "1.0.0",
   "type": "skill",
   "category": "skills",
-  "owner": {
-    "name": "Andreas Sander",
-    "email": "mail@andi1984.de"
-  },
   "triggers": ["rust", "tauri", "egui", "iced", "slint", "cargo", "crate", "rust desktop"],
   "entryPoint": "skill.md",
   "tags": ["rust", "desktop", "tauri", "egui", "iced", "gui", "cross-platform", "native"]
